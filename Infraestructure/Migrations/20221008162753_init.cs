@@ -118,16 +118,16 @@ namespace Infraestructure.Migrations
                 columns: new[] { "ProductoId", "Codigo", "Descripcion", "Image", "Marca", "Nombre", "Precio" },
                 values: new object[,]
                 {
-                    { 1, "#1", "Un mate estilo camionero con virola de aluminio y recubierto de cuero.", "Imagen", "Mates Berazategui", "Mate camionero ALUMINIO", 2000m },
-                    { 2, "#2", "Un mate estilo torpedo con virola de aluminio y recubierto de cuero.", "Imagen", "Mates Berazategui", "Mate torpedo ALUMINIO", 2000m },
-                    { 3, "#3", "Un mate estilo camionero con virola de aluminio cincelada y recubierto de cuero.", "Imagen", "Mates Berazategui", "Mate camionero ALUMINIO CINCELADO", 2300m },
-                    { 4, "#4", "Un mate estilo torpedo con virola de aluminio cincelada y recubierto de cuero.", "Imagen", "Mates Berazategui", "Mate torpedo ALUMINIO CINCELADO", 2300m },
-                    { 5, "#5", "Un mate estilo camionero con virola de alpaca lisa y recubierto de cuero.", "Imagen", "Mates Berazategui", "Mate camionero ALPACA LISA", 3000m },
-                    { 6, "#6", "Un mate estilo torpedo con virola de alpaca lisa y recubierto de cuero.", "Imagen", "Mates Berazategui", "Mate torpedo ALPACA LISA", 3000m },
-                    { 7, "#7", "Un mate estilo camionero con virola de alpaca cincelada y recubierto de cuero.", "Imagen", "Mates Berazategui", "Mate camionero ALPACA CINCELADA", 3300m },
-                    { 8, "#8", "Un mate estilo torpedo con virola de alpaca cincelada y recubierto de cuero.", "Imagen", "Mates Berazategui", "Mate torpedo ALPACA CINCELADA", 3300m },
-                    { 9, "#9", "Un mate estilo camionero con virola de alpaca grabada totalmente personalizada y recubierto de cuero.", "Imagen", "Mates Berazategui", "Mate camionero ALPACA GRABADA", 4200m },
-                    { 10, "#10", "Una bombilla ideal para un mate ideal. Con estilo pico loro para máximo confort.", "Imagen", "Mates Berazategui", "Bombilla pico loro ACERO INOXIDABLE", 800m }
+                    { 1, "#1", "Un mate estilo camionero con virola de aluminio y recubierto de cuero.", "https://i.imgur.com/kBpL61h.jpg", "Mates Berazategui", "Mate camionero ALUMINIO", 2000m },
+                    { 2, "#2", "Un mate estilo torpedo con virola de aluminio y recubierto de cuero.", "https://i.imgur.com/OBgi9Rq.jpg", "Mates Berazategui", "Mate torpedo ALUMINIO", 2000m },
+                    { 3, "#3", "Un mate estilo camionero con virola de aluminio cincelada y recubierto de cuero.", "https://i.imgur.com/rTMC88Q.jpg", "Mates Berazategui", "Mate camionero ALUMINIO CINCELADO", 2300m },
+                    { 4, "#4", "Un mate estilo torpedo con virola de aluminio cincelada y recubierto de cuero.", "https://i.imgur.com/lnaf51K.jpg", "Mates Berazategui", "Mate torpedo ALUMINIO CINCELADO", 2300m },
+                    { 5, "#5", "Un mate estilo camionero con virola de alpaca lisa y recubierto de cuero.", "https://i.imgur.com/QChC7FG.jpg", "Mates Berazategui", "Mate camionero ALPACA LISA", 3000m },
+                    { 6, "#6", "Un mate estilo torpedo con virola de alpaca lisa y recubierto de cuero.", "https://i.imgur.com/gRMsfCx.jpg", "Mates Berazategui", "Mate torpedo ALPACA LISA", 3000m },
+                    { 7, "#7", "Un mate estilo camionero con virola de alpaca cincelada y recubierto de cuero.", "https://i.imgur.com/gt1RiK4.jpg", "Mates Berazategui", "Mate camionero ALPACA CINCELADA", 3300m },
+                    { 8, "#8", "Un mate estilo torpedo con virola de alpaca cincelada y recubierto de cuero.", "https://i.imgur.com/DNDhDf6.jpg", "Mates Berazategui", "Mate torpedo ALPACA CINCELADA", 3300m },
+                    { 9, "#9", "Un mate estilo camionero con virola de alpaca grabada totalmente personalizada y recubierto de cuero.", "https://i.imgur.com/Slb5Ojf.jpg", "Mates Berazategui", "Mate camionero ALPACA GRABADA", 4200m },
+                    { 10, "#10", "Una bombilla ideal para un mate ideal. Con estilo pico loro para máximo confort.", "https://i.imgur.com/3UPfdzA.jpg", "Mates Berazategui", "Bombilla pico loro ACERO INOXIDABLE", 800m }
                 });
 
             migrationBuilder.CreateIndex(

@@ -91,7 +91,7 @@ namespace Infraestructure.Persistence
                     Marca = "Mates Berazategui",
                     Codigo = "#1",
                     Precio = 2000,
-                    Image = "Imagen",
+                    Image = "https://i.imgur.com/kBpL61h.jpg",
                 }, new Producto
                 {
                     ProductoId = 2,
@@ -100,7 +100,7 @@ namespace Infraestructure.Persistence
                     Marca = "Mates Berazategui",
                     Codigo = "#2",
                     Precio = 2000,
-                    Image = "Imagen",
+                    Image = "https://i.imgur.com/OBgi9Rq.jpg",
                 }, new Producto
                 {
                     ProductoId = 3,
@@ -109,7 +109,7 @@ namespace Infraestructure.Persistence
                     Marca = "Mates Berazategui",
                     Codigo = "#3",
                     Precio = 2300,
-                    Image = "Imagen",
+                    Image = "https://i.imgur.com/rTMC88Q.jpg",
                 }, new Producto
                 {
                     ProductoId = 4,
@@ -118,7 +118,7 @@ namespace Infraestructure.Persistence
                     Marca = "Mates Berazategui",
                     Codigo = "#4",
                     Precio = 2300,
-                    Image = "Imagen",
+                    Image = "https://i.imgur.com/lnaf51K.jpg",
                 }, new Producto
                 {
                     ProductoId = 5,
@@ -127,7 +127,7 @@ namespace Infraestructure.Persistence
                     Marca = "Mates Berazategui",
                     Codigo = "#5",
                     Precio = 3000,
-                    Image = "Imagen",
+                    Image = "https://i.imgur.com/QChC7FG.jpg",
                 }, new Producto
                 {
                     ProductoId = 6,
@@ -136,7 +136,7 @@ namespace Infraestructure.Persistence
                     Marca = "Mates Berazategui",
                     Codigo = "#6",
                     Precio = 3000,
-                    Image = "Imagen",
+                    Image = "https://i.imgur.com/gRMsfCx.jpg",
                 }, new Producto
                 {
                     ProductoId = 7,
@@ -145,7 +145,7 @@ namespace Infraestructure.Persistence
                     Marca = "Mates Berazategui",
                     Codigo = "#7",
                     Precio = 3300,
-                    Image = "Imagen",
+                    Image = "https://i.imgur.com/gt1RiK4.jpg",
                 }, new Producto
                 {
                     ProductoId = 8,
@@ -154,7 +154,7 @@ namespace Infraestructure.Persistence
                     Marca = "Mates Berazategui",
                     Codigo = "#8",
                     Precio = 3300,
-                    Image = "Imagen",
+                    Image = "https://i.imgur.com/DNDhDf6.jpg",
                 }, new Producto
                 {
                     ProductoId = 9,
@@ -163,7 +163,7 @@ namespace Infraestructure.Persistence
                     Marca = "Mates Berazategui",
                     Codigo = "#9",
                     Precio = 4200,
-                    Image = "Imagen",
+                    Image = "https://i.imgur.com/Slb5Ojf.jpg",
                 }, new Producto
                 {
                     ProductoId = 10,
@@ -172,7 +172,7 @@ namespace Infraestructure.Persistence
                     Marca = "Mates Berazategui",
                     Codigo = "#10",
                     Precio = 800,
-                    Image = "Imagen",
+                    Image = "https://i.imgur.com/3UPfdzA.jpg",
                 });
             });
         }
